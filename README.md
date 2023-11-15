@@ -1,2 +1,2 @@
 # Digtial-Portfolio
-this my normal projests
+this my normal projects
